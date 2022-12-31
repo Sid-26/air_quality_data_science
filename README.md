@@ -1,2 +1,5 @@
-# air_quality_data_science
-Data Science Report
+# Air Quality Data Science Report
+
+## An Exploratory Data Analysis on Air Quality Index for cities in India
+
+## Dataset source: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
